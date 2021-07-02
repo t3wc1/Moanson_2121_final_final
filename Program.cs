@@ -17,7 +17,7 @@ namespace Moanson_2121_1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Menu_cliente());
+            Application.Run(new Form1());
         }
     }
 }
